@@ -3,9 +3,5 @@ node_modules
 .tmp
 .sass-cache
 builds/**/images/*
-*.zip
-*.doc
-*.docx
-shapefiles/_raw/
-interviews
 drafts
+interviews
